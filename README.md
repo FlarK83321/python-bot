@@ -1,4 +1,4 @@
-# python-bot<
+# python-bot
 
-<h2>Установка</h2>
+## Установка
 `git clone https://github.com/FlarK83321/python-bot.git`
