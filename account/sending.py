@@ -60,13 +60,13 @@ async def main(batch, ids=[]):
 		receiver = db.Receiver.create(uid=_id)
 
 	for _id in ids:
-		await sending(471620439)
+		await sending(_id)
 
 	if not batch:
 		return
 
 	for index, suggestion in enumerate((await bot.api.friends.get_suggestions(count=batch)).items):
-		await sending(471620439)
+		await sending(suggestion.id)
 
 
 if __name__ == '__main__':
