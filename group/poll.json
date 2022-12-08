@@ -1,0 +1,303 @@
+	{
+	  "questions": [
+		  {
+				"index": 0,
+				"question": "Твоя деятельность связана с IT-сферой?",
+				"answers": {
+					"Связана": {
+						"index": 1,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не связана": {
+						"index": 7,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 1,
+				"question": "Поддерживаешь связь с единомышленниками?",
+				"answers": {
+					"Поддерживаю": {
+						"index": 2,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не поддерживаю": {
+						"index": 9,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 2,
+				"question": "Чаще общаешься в соцсетях или вживую?",
+				"answers": {
+					"Соцсети": {
+						"index": 3,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Вживую": {
+						"index": 5,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 3,
+				"question": "Какие соцсети для IT-шников ты используешь?",
+				"answers": {
+					"": {
+						"index": 4
+					}
+				}
+			},
+			{
+				"index": 4,
+				"question": "Чем они привлекли твоё внимание?",
+				"answers": {
+					"Не знаю": {
+						"index": 8,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 8
+					}
+				}
+			},
+			{
+				"index": 5,
+				"question": "Знаешь ли ты какие-нибудь соцсети для IT-шников?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 6
+					}
+				}
+			},
+			{
+				"index": 6,
+				"question": "Почему ты их не используешь?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 7,
+				"question": "Какие соцсети для IT-шников ты знаешь?",
+				"answers": {
+					"Никакие": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 8,
+				"question": "Почему тебе нравится именно такой вид общения?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 9,
+				"question": "В чём причина твоей ассоциальности?",
+				"answers": {
+					"Не знаю": {
+						"index": 5,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 5
+					}
+				}
+			},
+			{
+				"index": 10,
+				"question": "Как думаешь, коммуницирование IT-шников между собой способствует развитию IT-сферы?",
+				"answers": {
+					"Способствует": {
+						"index": 11,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не способствует": {
+						"index": 11,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 11,
+				"question": "Почему ты так считаешь?",
+				"answers": {}
+			}
+		  ]
+		}
+		{
+		  "questions": [{
+				"index": 0,
+				"question": "Твоя деятельность связана с IT-сферой?",
+				"answers": {
+					"Связана": {
+						"index": 1,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не связана": {
+						"index": 7,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 1,
+				"question": "Поддерживаешь связь с единомышленниками?",
+				"answers": {
+					"Поддерживаю": {
+						"index": 2,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не поддерживаю": {
+						"index": 9,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 2,
+				"question": "Чаще общаешься в соцсетях или вживую?",
+				"answers": {
+					"Соцсети": {
+						"index": 3,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Вживую": {
+						"index": 5,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 3,
+				"question": "Какие соцсети для IT-шников ты используешь?",
+				"answers": {
+					"": {
+						"index": 4
+					}
+				}
+			},
+			{
+				"index": 4,
+				"question": "Чем они привлекли твоё внимание?",
+				"answers": {
+					"Не знаю": {
+						"index": 8,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 8
+					}
+				}
+			},
+			{
+				"index": 5,
+				"question": "Знаешь ли ты какие-нибудь соцсети для IT-шников?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 6
+					}
+				}
+			},
+			{
+				"index": 6,
+				"question": "Почему ты их не используешь?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 7,
+				"question": "Какие соцсети для IT-шников ты знаешь?",
+				"answers": {
+					"Никакие": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 8,
+				"question": "Почему тебе нравится именно такой вид общения?",
+				"answers": {
+					"Не знаю": {
+						"index": 10,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 10
+					}
+				}
+			},
+			{
+				"index": 9,
+				"question": "В чём причина твоей ассоциальности?",
+				"answers": {
+					"Не знаю": {
+						"index": 5,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					},
+					"": {
+						"index": 5
+					}
+				}
+			},
+			{
+				"index": 10,
+				"question": "Как думаешь, коммуницирование IT-шников между собой способствует развитию IT-сферы?",
+				"answers": {
+					"Способствует": {
+						"index": 11,
+						"color": "KeyboardButtonColor.POSITIVE"
+					},
+					"Не способствует": {
+						"index": 11,
+						"color": "KeyboardButtonColor.NEGATIVE"
+					}
+				}
+			},
+			{
+				"index": 11,
+				"question": "Почему ты так считаешь?",
+				"answers": {}
+			}
+		]
+	}
